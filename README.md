@@ -2,8 +2,8 @@
 
 Some 3D Projects With HTML CSS & JS
 
-### ➡ Link of the Project [Menu](https://sosarenaint.github.io/3d-html-css-js/)
-
+### ➡ Link of the Project [Menu](https://mridul2820.github.io/3d-html-css-js/)
+/
 
 ### ↪ Individual Project Links ↩
 
